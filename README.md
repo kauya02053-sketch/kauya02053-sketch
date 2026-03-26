@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 👋 哈囉！我是 [你的名字] | 數據分析愛好者
+# 👋 哈囉！我是 高雅 | 數據分析愛好者
 
 致力於利用 **Python** 與 **自動化技術** 探索金融數據的價值。目前專注於開發易於使用的股市分析工具。
 
@@ -29,5 +29,5 @@
 ---
 
 ### 📫 如何聯絡我
-- **Email:** [你的Email]
-- **LinkedIn:** [你的LinkedIn網址]
+- **Email:** [kauya02053@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/kauyaworkinglife/]
